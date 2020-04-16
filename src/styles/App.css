@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  /*flex-direction: column;*/
+  /*align-items: center;*/
+  /*justify-content: center;*/
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.strikethrough{
+  text-decoration: line-through;
+}
+
+.cbox-col{
+  background-color: #A7B4B5;
+}
+
+input[type="checkbox"]{
+  height: 20px;
+  width: 20px;
+}
+
+.rounded-left{
+  border_radius: 5px;
+}
